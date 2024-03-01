@@ -1,0 +1,23 @@
+h1
+{
+ font-size: 30px;
+ color: white;
+}
+
+#instrucions
+{
+  background-color: white;
+  font-size: 15px;
+}
+
+#play
+{
+    background-color: white;
+    font-size: 15px;
+}
+
+#status_bar
+{
+    font-size: 14px;
+    color: white;
+}
